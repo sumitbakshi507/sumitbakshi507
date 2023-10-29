@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @sumitbakshi507
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-sumitbakshi507/sumitbakshi507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Sumit Bakshi(@sumitbakshi507)
+- 👀 I’m interested in cloud computing, web development in angular, reactjs or vuejs
+- 🌱 I’m currently learning aws, azure
+- 💞️ I’m looking to collaborate on web development in angular, reactjs or vuejs and api development in .net core
+- 📫 How to reach me via email sumit_bakshi2507@yahoo.com
